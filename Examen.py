@@ -96,6 +96,6 @@ def menu():
             print("Saliendo del programa...")
             break
         else:
-            print("Opción no válida.")
+            print("Opción inválida.")
 
 menu()
