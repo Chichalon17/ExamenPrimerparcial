@@ -73,7 +73,7 @@ def equipos_mantenimiento_rango():
 
 def menu():
     while True:
-        print("\n=== Gestión de Equipos de Control ===")
+        print("\n= Gestión de Equipos de Control =")
         print("1. Agregar equipo")
         print("2. Listar equipos")
         print("3. Buscar por ID")
